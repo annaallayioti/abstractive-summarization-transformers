@@ -47,7 +47,7 @@ The goal is to evaluate performance on **abstractive summarization**, where mode
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 ```
 abstractive-summarization-transformers/
@@ -119,7 +119,7 @@ jupyter notebook abstractive_summarization.ipynb
 ## Tech Stack
 `Python` `PyTorch` `transformers` `datasets` `evaluate` `numpy` `matplotlib`
 
-## 👥 Authors
+## Authors
 
 - Anna Allagioti  
 - Maria-Konstantina Karkoglou  
