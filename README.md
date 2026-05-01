@@ -18,7 +18,7 @@ The goal is to evaluate performance on **abstractive summarization**, where mode
 
 | Model | ROUGE-1 | ROUGE-2 | BLEU | Training Time |
 |------|--------|--------|------|--------------|
-| **T5-base** | **33.83%** | **13.83%** | **10.70%** | ~60 min |
+| **T5-base** | **33.62%** | **13.83%** | **10.70%** | ~60 min |
 | BART-base | 31.90% | 11.94% | 8.50% | ~33 min |
 | BART (lr=5e-4) | 29.32% | 9.89% | 7.08% | ~32 min |
 | Custom Encoder-Decoder | 5.99% | 0.10% | 0.00% | **17.7 min** |
@@ -105,7 +105,7 @@ abstractive-summarization-transformers/
 ```bash
 git clone https://github.com/annaallayioti/abstractive-summarization-transformers.git
 cd abstractive-summarization-transformers
-
+``` 
 ### 2. Install dependencies
 ```bash
 pip install transformers datasets evaluate rouge-score sentencepiece torch
