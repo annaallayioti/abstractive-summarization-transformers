@@ -56,6 +56,7 @@ abstractive-summarization-transformers/
 ├── assets/                          # Figures used in README
 ├── README.md
 ├── .gitignore
+└── LICENSE
 ```
 
 ---
@@ -123,3 +124,6 @@ jupyter notebook abstractive_summarization.ipynb
 
 - Anna Allagioti  
 - Maria-Konstantina Karkoglou  
+
+## License
+This project is licensed under the MIT License.
